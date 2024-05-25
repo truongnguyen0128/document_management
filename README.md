@@ -1,3 +1,7 @@
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Description | Building a website as a tool for managing work progress. Senior departments monitor the workflow of all employees
+--- | ---
+Team size | 3
+--- | ---
+My responsibility | Planning for the project, Fullstack developer, Deploying the staging environment
+--- | ---
+Technical | PHP (Laravel), Pusher, Vuejs + TailwindCSS, Docker, MySQL
