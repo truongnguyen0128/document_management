@@ -1,3 +1,4 @@
+⌨ | ⌨
 --- | --- 
 `Description` | Building a website as a tool for managing work progress. Senior departments monitor the workflow of all employees
 `Team size` | 3
